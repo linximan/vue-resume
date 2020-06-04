@@ -2,7 +2,7 @@
   <el-aside class="page-sider">
     <div class="user-info">
       <div class="user-avatar">
-        <img class="user-avatar-png" src="@/assets/logo.png" />
+        <img class="user-avatar-png" src="@/assets/avatar.jpg" />
       </div>
       <p class="user-name">林熙</p>
       <p class="user-status">Born to Code</p>
@@ -15,7 +15,7 @@
       </div>
       <div class="user-info-text">
         <i class="el-icon-present"></i>
-        <span>出生年月：1990.07.14（广州）</span>
+        <span>出生年月：1996.07.14（广州）</span>
       </div>
       <div class="user-info-text">
         <i class="el-icon-position"></i>
@@ -31,7 +31,7 @@
       </div>
       <div class="user-info-text">
         <i class="el-icon-bank-card"></i>
-        <span>期望月薪：8～10k</span>
+        <span>期望月薪：10～12k</span>
       </div>
     </div>
     <div class="user-info">
